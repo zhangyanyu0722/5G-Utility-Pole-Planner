@@ -8,8 +8,8 @@
 
 ## Project Mission
 <p align="center">
-  In order to ....
-</p>
+  In order to help company to install 5G equipments on untility Poles, our first aim is to build our first dataset by Google street imagery. With machine leaning, we will import the dataset and analyse the poles in every image so that we can build a 2D model of the whole neighbourhood. At the same time, our team members are going to use the knowledge of 5G and make an abstraction of each equipment as to build the final model.
+</p>F
 
 ## User Stories
 
