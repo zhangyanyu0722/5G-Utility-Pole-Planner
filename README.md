@@ -19,8 +19,3 @@
 
 1. 
 2.
-
-## Types of Twitter feeds being focused on
-
-
-## Twitter feed examples with sentiment
