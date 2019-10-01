@@ -12,15 +12,19 @@
   In order to help company to install 5G equipments on untility Poles, our first aim is to build our first dataset by Google street imagery. With machine leaning, we will import the dataset and analyse the poles in every image so that we can build a 2D model of the whole neighbourhood. At the same time, our team members are going to use the knowledge of 5G and make an abstraction of each equipment as to build the final model.
 
 ### Target User(s)
-
-### Minimum Viable Product
-
-1. Detect the poles from the pictures.
-2. Label poles on a 2D map in a small area.
+- 5G operator
+- 5G maintenance company
 
 ### User Stories
 
-- I, the , want to ....
+- I, the 5G operator, want to identify the poles in the picture and get their coordinates.
+- I, the 5G operator, want to know the distribution of poles on the street.
+- I, the 5G operator/maintenance company, want to know how to achieve full coverage of 5G signals with a minimum of 5G devices.
+
+### MVP
+
+1. Detect the poles from the pictures.
+2. Label poles on a 2D map in a small area.
 
 ### How it works
 
