@@ -9,16 +9,15 @@
 ## Project Mission
 <p align="center">
   In order to help company to install 5G equipments on untility Poles, our first aim is to build our first dataset by Google street imagery. With machine leaning, we will import the dataset and analyse the poles in every image so that we can build a 2D model of the whole neighbourhood. At the same time, our team members are going to use the knowledge of 5G and make an abstraction of each equipment as to build the final model.
-</p>F
 
 ## Minimum Viable Product
 
-1.Detect the poles from the pictures.
-2.
+1. Detect the poles from the pictures.
+2. Label poles on a 2D map in a small area.
 
 ## User Stories
 
-- I, the ..., want to ....
+- I, the , want to ....
 
 ## How it works
 
@@ -28,4 +27,7 @@
 4. Make a module for each 5U Utilities, including its coverage area.
 5. Combine 3 & 4 to reach the final design
 
+## What We Have Done
 
+1. We have got the access to Google Map Api so that we were able to download the pictures from Google Street View, though it gave us a limit of 2000 per day.
+2. Found a labeled dataset of telephone poles, containing 98 images.
