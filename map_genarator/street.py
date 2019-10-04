@@ -41,7 +41,7 @@ for line in fp.readlines():
 
     name = "/home/ece-student/Desktop/shared/5G/map_genarator/boston_" + jin + "_" + wei + "_" + heading + "10%20.JPG"
 
-    url = "https://maps.googleapis.com/maps/api/streetview?size=600x600&location=" + jin + "," + wei + "%20&fov=90" + "&heading=" +heading + "&pitch=10%20&key="+ "AIzaSyDoLx9_P5qHwxn4AKZQWMo72HudbqElIvI"
+    url = "https://maps.googleapis.com/maps/api/streetview?size=600x600&location=" + jin + "," + wei + "%20&fov=90" + "&heading=" +heading + "&pitch=10%20&key="+ ""
     
     print(name)
 
