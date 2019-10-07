@@ -72,9 +72,18 @@
 ## System Design
 
 ### Major Components
-- Google Image 
+- Street View Static Api
+- Trained model/algorithm
 
 ### Technology Selection
+- Street View Static Api
+   - get the images of the set coordinate points.
+   - get images of different angles from the same coordinate point.
+   - set the size of image.
+- Trained model/algorithm
+   - Python
+       - easy to use
+       - very convenient when learning machine
 
 ### Test programs
 
