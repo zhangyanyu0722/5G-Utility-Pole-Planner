@@ -37,7 +37,7 @@
 ## Product Survey
 
 ### Existing similar products
-1.DetectUtilityPoles
+1. Using Deep Learning to Identify Utility Poles from Google Street View Images
 
 ### Patent analysis
 
