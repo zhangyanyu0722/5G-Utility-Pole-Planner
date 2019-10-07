@@ -50,7 +50,9 @@
       - a large amount of training dataset is needed to achieve an acceptable accuracy with the Retina-101.
       - a lot of utility poles do not have crossarms used to detect.
    - Technologies:
-
+      - process the extracted road GIS dataset.
+      - get images through google street view.
+      - use a training dataset to train the DL algorithm and a test dataset to access the performance.
 ### Patent analysis
 
 ## System Design
