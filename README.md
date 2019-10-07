@@ -53,11 +53,24 @@
       - process the extracted road GIS dataset.
       - get images through google street view.
       - use a training dataset to train the DL algorithm and a test dataset to access the performance.
+2. Image Analysis-based Automatic Utility Pole Detection
+   - research paper available [here](https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/paper.pdf).
+   - Advantages:
+      - extract 2D shapes of poles and create a shape-based template.
+      - the algorithm is more robust compared to others.
+      - the algorithm can detect leaning or bent poles as well.
+      - detect poles in complex surroundings.
+   - Disadvantages:
+      - still exist incorrect test results.
+      - need to improve handling of weak edges.
+   - Technologies:
+      - 
 ### Patent analysis
 
 ## System Design
 
 ### Major Components
+- Google Image 
 
 ### Technology Selection
 
