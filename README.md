@@ -49,22 +49,24 @@
       - some google street view images are very old.
       - a large amount of training dataset is needed to achieve an acceptable accuracy with the Retina-101.
       - a lot of utility poles do not have crossarms used to detect.
-   - Technologies:
+   - Approach:
       - process the extracted road GIS dataset.
       - get images through google street view.
       - use a training dataset to train the DL algorithm and a test dataset to access the performance.
 2. Image Analysis-based Automatic Utility Pole Detection
    - research paper available [here](https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/paper.pdf).
    - Advantages:
-      - extract 2D shapes of poles and create a shape-based template.
       - the algorithm is more robust compared to others.
       - the algorithm can detect leaning or bent poles as well.
       - detect poles in complex surroundings.
    - Disadvantages:
       - still exist incorrect test results.
       - need to improve handling of weak edges.
-   - Technologies:
-      - 
+   - Approach:
+      - extract keyframes from the video.
+      - extract 2D shapes of poles and create a shape-based template.
+      - detect a pole with any degree of leaning.
+      - algorithm:mean-shift segmentation->block-oriented quadrilateral extraction->orientation-based spatial clustering of near-trapeziums->context-based detection of utility pole
 ### Patent analysis
 
 ## System Design
