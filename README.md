@@ -39,6 +39,10 @@
 ### Existing similar products
 1. Using Deep Learning to Identify Utility Poles from Google Street View Images
    - research paper available [here](https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/thesis_pole.pdf).
+   - Advantages:
+      - using deep learning based method
+   - Disadvantages:
+   - Technologies:
 
 ### Patent analysis
 
