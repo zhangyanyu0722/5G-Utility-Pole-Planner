@@ -25,6 +25,7 @@
 
 1. Detect the poles from the pictures.
 2. Label poles on a 2D map in a small area.
+3. Reasonably distribute 5G equipment.
 
 ### How it works
 
