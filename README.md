@@ -40,8 +40,15 @@
 1. Using Deep Learning to Identify Utility Poles from Google Street View Images
    - research paper available [here](https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/thesis_pole.pdf).
    - Advantages:
-      - using deep learning based method
+      - using deep learning based method.
+      - combine the state-of-the-art DL object detection algorithm and a modified brute-force-based line-of-bearing measurement method.
+      - both the average precision and the overall accuracy are around 0.78.
+      - 47% and 79% of estimated locations of utility poles are within 5 m, and 10 m buffer zones
    - Disadvantages:
+      - only one method being used for each task of detection.
+      - some google street view images are very old.
+      - a large amount of training dataset is needed to achieve an acceptable accuracy with the Retina-101.
+      - a lot of utility poles do not have crossarms used to detect.
    - Technologies:
 
 ### Patent analysis
