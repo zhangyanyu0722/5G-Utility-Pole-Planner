@@ -72,7 +72,7 @@
       - extract 2D shapes of poles and create a shape-based template.
       - detect a pole with any degree of leaning.
       - algorithm:mean-shift segmentation->block-oriented quadrilateral extraction->orientation-based spatial clustering of near-trapeziums->context-based detection of utility pole
-### Patent analysis
+
 
 ## System Design
 
