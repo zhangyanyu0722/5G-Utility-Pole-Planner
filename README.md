@@ -6,6 +6,10 @@
 - Luxuan Qi (U29067565)
 - Zhou Fang (U03663101)
 
+<p align="center">
+  <a href="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/sprint1_ppt.pptx">Overview</a>
+</p>
+
 ## Product Definition
 
 ### Project Mission
