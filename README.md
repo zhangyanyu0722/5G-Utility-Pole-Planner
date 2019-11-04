@@ -7,9 +7,13 @@
 - Zhou Fang (U03663101)
 
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/1qWq742s4NI8pn1bmFl8gep5iJmCOW43pqanhG7Z6wek/edit?usp=sharing">Overview</a>
-  <a href="https://docs.google.com/presentation/d/1_AwGJDqD3ICkyTWdblvogblYmDKTAUlKJ4mJW6xaTWo/edit?usp=sharing">ppt_sprint2</a>
+  <a href="https://docs.google.com/presentation/d/1qWq742s4NI8pn1bmFl8gep5iJmCOW43pqanhG7Z6wek/edit?usp=sharing">Sprint1</a>
 </p>
+
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/1_AwGJDqD3ICkyTWdblvogblYmDKTAUlKJ4mJW6xaTWo/editusp=sharing">Sprint2</a>
+</p>
+
 
 ## Product Definition
 
