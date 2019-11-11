@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/1_AwGJDqD3ICkyTWdblvogblYmDKTAUlKJ4mJW6xaTWo/editusp=sharing">Sprint2</a>
+  <a href="https://docs.google.com/presentation/d/1_AwGJDqD3ICkyTWdblvogblYmDKTAUlKJ4mJW6xaTWo/edit?usp=sharing">Sprint2</a>
 </p>
 
 
