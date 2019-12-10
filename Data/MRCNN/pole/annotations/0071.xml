@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>0071.JPEG</filename>
+    <path>images/0071.JPEG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>336</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pole</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>37</xmin>
+            <ymin>92</ymin>
+            <xmax>202</xmax>
+            <ymax>475</ymax>
+        </bndbox>
+    </object>
+</annotation>
