@@ -100,20 +100,21 @@
        - easy to use
        - very convenient when learning machine
 
-### Test programs
-
 ## What We Have Done
+
+### Web Design
 
 1. We have got the access to Google Map Api so that we were able to download the pictures from Google Street View, though it gave us a limit of 2000 per day.
 
-2. For the poles' detection, our fundamental purpose is to detect whether poles exist in pictures or not. The methods are basic CNN and Mark-RCNN. After comparison, Mark-RCNN has the higher accuracy, but has lower speed than the basic CNN. In this demo, we used the basic CNN with the increased dataset, which contains 3,000 photos. The results are showing as following:
+### Trained Model
+1. For the poles' detection, our fundamental purpose is to detect whether poles exist in pictures or not. The methods are basic CNN and Mark-RCNN. After comparison, Mark-RCNN has the higher accuracy, but has lower speed than the basic CNN. In this demo, we used the basic CNN with the increased dataset, which contains 3,000 photos. The results are showing as following:
 <p float="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/loss_4.png" width="400" />
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/acc_4.png" width="400" />
   
 Model link: "https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/poles_and_nonpoles_3.h5"
 
-3. We labled about 100 pictures with poles, and used those pictures in the Mark-RCNN, then trained with 25 epoches, and the result is showing below:
+2. We labled about 100 pictures with poles, and used those pictures in the Mark-RCNN, then trained with 25 epoches, and the result is showing below:
 <p align="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/mrcnn.png" width="300">
   
