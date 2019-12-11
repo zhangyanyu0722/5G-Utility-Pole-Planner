@@ -106,7 +106,7 @@
 
 1. We have got the access to Google Map Api so that we were able to download the pictures from Google Street View, though it gave us a limit of 2000 per day.
 
-2. For the poles' detection, we compared basic CNN and Mark-RCNN, the results are showing as following:
+2. For the poles' detection, our fundamental purpose is to detect whether poles exist in pictures or not. The methods are basic CNN and Mark-RCNN. After comparison, Mark-RCNN has the higher accuracy, but has lower speed than the basic CNN. In this demo, we used the basic CNN with the increased dataset, which contains 3,000 photos. The results are showing as following:
 <p float="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/loss_4.png" width="400" />
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/acc_4.png" width="400" />
@@ -115,6 +115,5 @@
 <p align="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/mrcnn.png" width="300">
 
-  
   
   
