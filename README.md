@@ -89,6 +89,8 @@
 ### Major Components
 - Street View Static Api
 - Trained model/algorithm
+- MATLAB
+- Django
 
 ### Technology Selection
 - Street View Static Api
@@ -110,8 +112,11 @@
 - Click the Submit button to download the image of the area from the google static street view api to a local folder.
 - Use a trained model to identify whether a pole is included in the picture, and use MATLAB to mark the pole on the map and distribute 5G equipment.
 - Click the Result button to view the results on the web page.   
-
-<img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/webpage.png" />
+<p align="center">
+<img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/webpage.png" width = "600"/>
+<img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/img/finalimage.png" width = "600"/>
+  </p>
+ 
 
 ### Trained Model
 1. For the poles' detection, our fundamental purpose is to detect whether poles exist in pictures or not. The methods are basic CNN and Mark-RCNN. After comparison, Mark-RCNN has the higher accuracy, but has lower speed than the basic CNN. In this demo, we used the basic CNN with the increased dataset, which contains 3,000 photos. The results are showing as following:
