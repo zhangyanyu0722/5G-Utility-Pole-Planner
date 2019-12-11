@@ -105,13 +105,15 @@
 ## What We Have Done
 
 1. We have got the access to Google Map Api so that we were able to download the pictures from Google Street View, though it gave us a limit of 2000 per day.
+
 2. For the poles' detection, we compared basic CNN and Mark-RCNN, the results are showing as following:
 <p float="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/loss_4.png" width="400" />
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/acc_4.png" width="400" />
+
 3. We labled about 100 pictures with poles, and used those pictures in the Mark-RCNN, then trained with 25 epoches, and the result is showing below:
 <p float="middle">
-  <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/mrcnn.png" width="400" />
+  <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/mrcnn.png" width="300" />
   
   
   
