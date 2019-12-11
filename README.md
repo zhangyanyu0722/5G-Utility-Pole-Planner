@@ -110,7 +110,7 @@
 <p float="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/loss_4.png" width="400" />
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/acc_4.png" width="400" />
-Model link: https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/poles_and_nonpoles_3.h5
+Model link: "https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/poles_and_nonpoles_3.h5"
 
 3. We labled about 100 pictures with poles, and used those pictures in the Mark-RCNN, then trained with 25 epoches, and the result is showing below:
 <p align="middle">
