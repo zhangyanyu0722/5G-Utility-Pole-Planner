@@ -106,3 +106,7 @@
 
 1. We have got the access to Google Map Api so that we were able to download the pictures from Google Street View, though it gave us a limit of 2000 per day.
 2. Found a labeled dataset of telephone poles, containing 98 images.
+3. For the poles'detection, we compared basic CNN and Mark-RCNN, the results are showing as following:
+<p float="left">
+  <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/loss_3.png" width="200" />
+  <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/acc_3.png" width="200" /> 
