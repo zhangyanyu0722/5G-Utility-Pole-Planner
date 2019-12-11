@@ -116,6 +116,8 @@ Model link: "https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/mast
 3. We labled about 100 pictures with poles, and used those pictures in the Mark-RCNN, then trained with 25 epoches, and the result is showing below:
 <p align="middle">
   <img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/master/result/mrcnn.png" width="300">
+  
+Model link: "https://drive.google.com/file/d/1Fk6RSlX70yz-rzwgo4dwI-ZkqjVCS0Le/view?usp=sharing"
 
   
   
