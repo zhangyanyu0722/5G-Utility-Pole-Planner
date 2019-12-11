@@ -104,7 +104,14 @@
 
 ### Web Design
 
-1. We have got the access to Google Map Api so that we were able to download the pictures from Google Street View, though it gave us a limit of 2000 per day.
+- Use Django to make web pages.
+- Connect to the Google Map api and click anywhere on the map to get the coordinates of that point.
+- Enter the latitude and longitude coordinates of the upper left and lower right corners of the selection area on the web page.
+- Click the Submit button to download the image of the area from the google static street view api to a local folder.
+- Use a trained model to identify whether a pole is included in the picture, and use MATLAB to mark the pole on the map and distribute 5G equipment.
+- Click the Result button to view the results on the web page.   
+
+<img src="https://github.com/zhangyanyu0722/5G-Utility-Pole-Planner/blob/lqi/webpage.png" width="400" />
 
 ### Trained Model
 1. For the poles' detection, our fundamental purpose is to detect whether poles exist in pictures or not. The methods are basic CNN and Mark-RCNN. After comparison, Mark-RCNN has the higher accuracy, but has lower speed than the basic CNN. In this demo, we used the basic CNN with the increased dataset, which contains 3,000 photos. The results are showing as following:
