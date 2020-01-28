@@ -1,4 +1,4 @@
-# 5G-Utility-Pole-Planner (Team 14)
+# 5G-Utility-Pole-Planner (Team 14 : Best Technical Presentation of BU ECE in 2019)
 
 ## Team Members
 
