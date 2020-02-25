@@ -3,7 +3,7 @@
 
 ## Team Members
 
-- Yanyu Zhang (U47793163)
+- Yanyu Zhang (U47793163) Contact : zhangya@bu.edu
 - Luxuan Qi (U29067565)
 - Zhou Fang (U03663101)
 
