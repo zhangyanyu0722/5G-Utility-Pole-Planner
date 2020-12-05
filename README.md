@@ -1,5 +1,6 @@
 # 5G-Utility-Pole-Planner 
 (Team 14 : Best Technical Presentation of BU ECE in 2019)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/zhangyanyu0722/5G-Utility-Pole-Planner.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/zhangyanyu0722/5G-Utility-Pole-Planner/context:python)
 
 ## Team Members
 
